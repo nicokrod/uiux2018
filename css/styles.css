@@ -35,7 +35,7 @@ h1{
 
 /* jumbotron */
 .jumbotron{
-  background-image: url("../images/salad.jpg");
+  background-image: url("../images/main_salad.jpg");
   background-repeat: no-repeat;
   background-size: cover;
 }
