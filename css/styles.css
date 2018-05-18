@@ -1,0 +1,168 @@
+/* XS */
+h1{
+  font-size: 12px;
+}
+@media (min-width: 576px) {
+  h1{
+    font-size: 20px;
+  }
+}
+@media (min-width: 768px) {
+  h1{
+    font-size: 32px;
+  }
+}
+@media (min-width: 992px) {
+  h1{
+    font-size: 40px;
+  }
+}
+@media (min-width: 1200px) {
+  h1{
+    font-size: 60px;
+  }
+}
+
+.my-green{
+  background-color: #178A2A;
+}
+
+.navbar{
+  padding: 0rem;
+  background-color: #178A2A;
+}
+
+
+/* jumbotron */
+.jumbotron{
+  background-image: url("../images/Salad.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+
+div.max-width{
+  max-width: 100px;
+}
+
+.footer-help{
+  color: white;
+}
+
+.jumbotron-heading{
+  color: white;
+  font-family: gotham black, helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 56px;
+  text-shadow: 4px 4px 20px #222;
+}
+
+p.lead{
+  color: white;
+  font-family: Young, sans-serif;
+  font-style: italic;
+  font-size: 35px;
+  text-shadow: 2px 2px 15px #222;
+}
+
+.fab{
+  font-size: 24px;
+  color: white;
+  border: 2px solid white;
+  border-radius: 75%;
+  padding: 10px;
+}
+
+.py-6{
+  padding: 4rem;
+}
+
+.pb-8{
+  padding-bottom: 8rem;
+}
+
+.pt-10{
+  padding-top: 8rem;
+}
+
+.mb-7{
+  margin-bottom: 7rem;
+}
+
+.mr-18{
+  margin-right: 18rem;
+}
+
+.ml-18{
+  margin-left: 16rem;
+}
+
+.pl-15{
+  padding-left: 15rem;
+}
+
+.pr-15{
+  padding-right: 15rem;
+}
+
+.mt-10{
+  margin-top: 10rem;
+}
+
+h1, h2{
+  color: #074511;
+  font-style: bold;
+  font-family: Gotham Black, Helvetica, sans-serif;
+}
+
+h3{
+  color: #F28300;
+  font-family: gotham bold, Helvetica, sans-serif;
+}
+
+h4{
+  color: #074511;
+  font-family: gotham bold, sans-serif;
+  font-size: 18px;
+}
+
+p{
+  font-family: young, sans-serif;
+}
+
+.hate-lines{
+  font-family: Gotham, sans-serif;
+  color: #074511;
+  font-size: 32px;
+  padding: 0px 0px 20px 0px;
+}
+
+/* WHAT DO I USE FOR RESPONSIVE IMAGES?  */
+img{
+  max-height:600px;
+}
+
+/* RESP IMG END */
+
+
+/* FOOTER RULES BELOW */
+.row-footer{
+  background-color: #178A2A;
+}
+
+
+.rowfooter a{
+  color: white;
+}
+
+.rowfooter a:active{
+  color: #F28300;
+}
+
+.rowfooter a:hover{
+  color: #F28300;
+}
+
+.rowfooter a:visited{
+  color: yellow;
+}
